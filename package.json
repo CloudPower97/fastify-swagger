@@ -1,5 +1,5 @@
 {
-  "name": "fastify-swagger",
+  "name": "@abstract/fastify-swagger",
   "version": "4.7.0",
   "description": "Serve Swagger/OpenAPI documentation for Fastify, supporting dynamic generation",
   "main": "index.js",
